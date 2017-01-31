@@ -1,0 +1,9 @@
+C:\Wuni Project\Faktur Pajak Barcode\Faktur Pajak Barcode\bin\Debug\Faktur Pajak Barcode.exe.config
+C:\Wuni Project\Faktur Pajak Barcode\Faktur Pajak Barcode\bin\Debug\Faktur Pajak Barcode.exe
+C:\Wuni Project\Faktur Pajak Barcode\Faktur Pajak Barcode\bin\Debug\Faktur Pajak Barcode.pdb
+C:\Wuni Project\Faktur Pajak Barcode\Faktur Pajak Barcode\obj\Debug\Faktur Pajak Barcode.csprojResolveAssemblyReference.cache
+C:\Wuni Project\Faktur Pajak Barcode\Faktur Pajak Barcode\obj\Debug\Faktur_Pajak_Barcode.Properties.Resources.resources
+C:\Wuni Project\Faktur Pajak Barcode\Faktur Pajak Barcode\obj\Debug\Faktur Pajak Barcode.csproj.GenerateResource.Cache
+C:\Wuni Project\Faktur Pajak Barcode\Faktur Pajak Barcode\obj\Debug\Faktur Pajak Barcode.exe
+C:\Wuni Project\Faktur Pajak Barcode\Faktur Pajak Barcode\obj\Debug\Faktur Pajak Barcode.pdb
+C:\Wuni Project\Faktur Pajak Barcode\Faktur Pajak Barcode\obj\Debug\Faktur_Pajak_Barcode.Form1.resources
